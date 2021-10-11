@@ -60,7 +60,7 @@
                         </li>
                         <li>
                             <a href="https://en.wikipedia.org/wiki/English_language">
-                                <img height="15px" src="images/languages/ua.svg" />
+                                <img height="15px" src="images/languages/en.svg" />
                                 English
                             </a>
                             - B2 (Upper-Intermediate)
