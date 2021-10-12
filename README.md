@@ -15,18 +15,12 @@
         <h2>
             About me
         </h2>
-        <img height="250px" align="right" src="images/HoloDring.gif"  alt=""/>
+        <img height="250px" align="right" src="images/HoloDrink.gif"  alt="" />
         <p>
-            I am a 20 year old boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me)
+            I am a 20 year old boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
         </p>
         <p>
             <ul>
-                <li>
-                    <b>
-                        Name:
-                    </b>
-                    Lisa
-                </li>
                 <li>
                     <b>
                         Nick:
@@ -89,9 +83,16 @@
             </li>
         </ul>
     </div>
-    <!-- div>
+    <div>
+        <h2>
+            Statistics
+        </h2>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LoveNek0&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoveNek0&layout=compact&langs_count=7&theme=radical">
+    </div>
+    <div>
         <h2>
             Contact me
         </h2>
-    </div -!>
+    </div>
 </body>
