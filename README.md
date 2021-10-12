@@ -94,5 +94,28 @@
         <h2>
             Contact me
         </h2>
+        <p align="center">
+            <a href="https://t.me/lovenek0">
+                <img height="35px" src="images/social/telegram.png" target="_blank" />        
+            </a>
+            <a href="https://instagram.com/lovenek0">
+                <img height="35px" src="images/social/instagram.png" target="_blank" />        
+            </a>
+            <a href="https://soundcloud.com/lovenek0">
+                <img height="35px" src="images/social/soundcloud.png" target="_blank" />        
+            </a>
+            <a href="https://twitter.com/lovenek0">
+                <img height="35px" src="images/social/twitter.png" target="_blank" />        
+            </a>
+            <a href="https://yummyanime.club/users/id84369">
+                <img height="35px" src="images/social/yummyanime.png" target="_blank" />        
+            </a>
+            <a href="https://steamcommunity.com/id/lovenek0">
+                <img height="35px" src="images/social/steam.png" target="_blank" />        
+            </a>
+            <a href="https://discordapp.com/users/LoveNek0#6637">
+                <img height="35px" src="images/social/discord.png" target="_blank" />        
+            </a>
+        </p>
     </div>
 </body>
