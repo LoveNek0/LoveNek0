@@ -17,7 +17,7 @@
         </h2>
         <img height="250px" align="right" src="images/HoloDrink.gif"  alt="" />
         <p>
-            I am a 20 year old boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
+            I am a 20 y.o. boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
         </p>
         <p>
             <ul>
@@ -115,6 +115,9 @@
             </a>
             <a href="https://discordapp.com/users/LoveNek0#6637">
                 <img height="35px" src="images/social/discord.png" target="_blank" />        
+            </a>
+            <a href="https://vk.com/lovenek0">
+                <img height="35px" src="images/social/vk.png" target="_blank" />        
             </a>
         </p>
     </div>
