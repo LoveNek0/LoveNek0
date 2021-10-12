@@ -15,7 +15,7 @@
         <h2>
             About me
         </h2>
-        <img height="250px" align="right" src="https://i.pinimg.com/originals/0c/6e/7e/0c6e7e5a97ee1791e1208d589838ba59.gif"  alt=""/>
+        <img height="250px" align="right" src="https://i.pinimg.com/originals/fb/e5/66/fbe5669255f666d5765741ef26aa0c52.gif"  alt=""/>
         <p>
             I am a 20 year old boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me)
         </p>
