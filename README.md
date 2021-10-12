@@ -81,6 +81,12 @@
                 </b>
                 C, C++, C#, Java, jPHP
             </li>
+            <li>
+                <b>
+                    Database:
+                </b>
+                SQL
+            </li>
         </ul>
     </div>
     <div>
