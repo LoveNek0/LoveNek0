@@ -17,7 +17,7 @@
         </h2>
         <img height="250px" align="right" src="images/HoloDrink.gif"  alt="" />
         <p>
-            I am a 20 y.o. boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
+            I am a 21 y.o. boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
         </p>
         <p>
             <ul>
@@ -25,7 +25,7 @@
                     <b>
                         Nick:
                     </b>
-                    LoveNeko
+                    LoveNek0
                 </li>
                 <li>
                     <b>
@@ -71,7 +71,7 @@
         <ul>
             <li>
                 <b>
-                    Web:
+                    Fullstack Web:
                 </b>
                 PHP, JS, HTML, CSS
             </li>
@@ -83,9 +83,9 @@
             </li>
             <li>
                 <b>
-                    Database:
+                    IDEs I prefer to use:
                 </b>
-                SQL
+                PHPStorm, Visual Studio, VS Code, Intellij Idea
             </li>
         </ul>
     </div>
