@@ -101,7 +101,7 @@
             Contact me
         </h2>
         <p align="center">
-            <a href="https://t.me/lovenek0">
+            <a href="https://t.me/lovenek02">
                 <img height="35px" src="images/social/telegram.png" target="_blank" />        
             </a>
             <a href="https://instagram.com/lovenek0">
@@ -116,7 +116,7 @@
             <a href="https://yummyanime.club/users/id84369">
                 <img height="35px" src="images/social/yummyanime.png" target="_blank" />        
             </a>
-            <a href="https://steamcommunity.com/id/lovenek02">
+            <a href="https://steamcommunity.com/id/lovenek0">
                 <img height="35px" src="images/social/steam.png" target="_blank" />        
             </a>
             <a href="https://discordapp.com/users/LoveNek0#6637">
