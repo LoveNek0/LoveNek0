@@ -116,7 +116,7 @@
             <a href="https://yummyanime.club/users/id84369">
                 <img height="35px" src="images/social/yummyanime.png" target="_blank" />        
             </a>
-            <a href="https://steamcommunity.com/id/lovenek0">
+            <a href="https://steamcommunity.com/id/lovenek02">
                 <img height="35px" src="images/social/steam.png" target="_blank" />        
             </a>
             <a href="https://discordapp.com/users/LoveNek0#6637">
