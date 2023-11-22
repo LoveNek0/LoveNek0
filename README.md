@@ -17,7 +17,7 @@
         </h2>
         <img height="250px" align="right" src="images/HoloDrink.gif"  alt="" />
         <p>
-            I am a 22 y.o. boy from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
+            I am a 22 y.o. girl from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
         </p>
         <p>
             <ul>
@@ -85,7 +85,7 @@
                 <b>
                     IDEs I prefer to use:
                 </b>
-                PHPStorm, Visual Studio, VS Code, Intellij Idea
+                Products of Intellij (like Idea, Rider, PHPStorm, WEBStorm etc.)
             </li>
         </ul>
     </div>
@@ -115,6 +115,9 @@
             </a>
             <a href="https://yummyanime.club/users/id84369">
                 <img height="35px" src="images/social/yummyanime.png" target="_blank" />        
+            </a>
+            <a href="https://animebuff.ru/users/7251">
+                <img height="35px" src="images/social/animebuff.png" target="_blank" />   
             </a>
             <a href="https://steamcommunity.com/id/lovenek0">
                 <img height="35px" src="images/social/steam.png" target="_blank" />        
