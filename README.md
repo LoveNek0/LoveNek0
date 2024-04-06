@@ -17,7 +17,7 @@
         </h2>
         <img height="250px" align="right" src="images/HoloDrink.gif"  alt="" />
         <p>
-            I am a 22 y.o. girl from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
+            I am a 23 y.o. girl from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
         </p>
         <p>
             <ul>
@@ -107,6 +107,7 @@
             <a href="https://instagram.com/lovenek0">
                 <img height="35px" src="images/social/instagram.png" target="_blank" />        
             </a>
+            <!--
             <a href="https://soundcloud.com/lovenek0">
                 <img height="35px" src="images/social/soundcloud.png" target="_blank" />        
             </a>
@@ -119,15 +120,18 @@
             <a href="https://animebuff.ru/users/7251">
                 <img height="35px" src="images/social/animebuff.png" target="_blank" />   
             </a>
+            -->
             <a href="https://steamcommunity.com/id/lovenek0">
                 <img height="35px" src="images/social/steam.png" target="_blank" />        
             </a>
             <a href="https://discordapp.com/users/LoveNek0#6637">
                 <img height="35px" src="images/social/discord.png" target="_blank" />        
             </a>
+            <!--
             <a href="https://vk.com/lovenek0">
                 <img height="35px" src="images/social/vk.png" target="_blank" />        
             </a>
+            -->
         </p>
     </div>
 </body>
