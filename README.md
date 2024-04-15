@@ -23,7 +23,7 @@
             <ul>
                 <li>
                     <b>
-                        Nick:
+                        Nickname:
                     </b>
                     LoveNek0
                 </li>
@@ -31,7 +31,7 @@
                     <b>
                         Hobbies:
                     </b>
-                    Anime, Manga, Coding
+                    Painting, Anime, Manga, Coding
                 </li>
                 <li>
                     <b>
