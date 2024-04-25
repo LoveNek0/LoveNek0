@@ -104,10 +104,10 @@
             <a href="https://t.me/lovenek02">
                 <img height="35px" src="images/social/telegram.png" target="_blank" />        
             </a>
+            <!--
             <a href="https://instagram.com/lovenek0">
                 <img height="35px" src="images/social/instagram.png" target="_blank" />        
             </a>
-            <!--
             <a href="https://soundcloud.com/lovenek0">
                 <img height="35px" src="images/social/soundcloud.png" target="_blank" />        
             </a>
