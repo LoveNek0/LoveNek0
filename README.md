@@ -3,7 +3,7 @@
         <h1>
             Welcome to 
             <a href="https://github.com/LoveNek0">
-                LoveNek0`s
+                @lovenek0`s
             </a>
             profile ~
         </h1>
@@ -25,7 +25,7 @@
                     <b>
                         Nickname:
                     </b>
-                    LoveNek0
+                    @lovenek0
                 </li>
                 <li>
                     <b>
@@ -79,7 +79,7 @@
                 <b>
                     Desktop/Console:
                 </b>
-                C, C++, C#, Java, jPHP
+                C, C++, C#, Java, jPHP, Python
             </li>
             <li>
                 <b>
@@ -104,29 +104,30 @@
             <a href="https://t.me/lovenek02">
                 <img height="35px" src="images/social/telegram.png" target="_blank" />        
             </a>
-            <!--
             <a href="https://instagram.com/lovenek0">
                 <img height="35px" src="images/social/instagram.png" target="_blank" />        
-            </a>
-            <a href="https://soundcloud.com/lovenek0">
-                <img height="35px" src="images/social/soundcloud.png" target="_blank" />        
             </a>
             <a href="https://twitter.com/lovenek0">
                 <img height="35px" src="images/social/twitter.png" target="_blank" />        
             </a>
+            <a href="https://steamcommunity.com/id/lovenek0">
+                <img height="35px" src="images/social/steam.png" target="_blank" />        
+            </a>
+            <a href="https://discord.com/users/843144196566024212">
+                <img height="35px" src="images/social/discord.png" target="_blank" />        
+            </a>
+            <!--
+            <a href="https://soundcloud.com/lovenek0">
+                <img height="35px" src="images/social/soundcloud.png" target="_blank" />        
+            </a>
+            
             <a href="https://yummyanime.club/users/id84369">
                 <img height="35px" src="images/social/yummyanime.png" target="_blank" />        
             </a>
             <a href="https://animebuff.ru/users/7251">
                 <img height="35px" src="images/social/animebuff.png" target="_blank" />   
             </a>
-            -->
-            <a href="https://steamcommunity.com/id/lovenek0">
-                <img height="35px" src="images/social/steam.png" target="_blank" />        
-            </a>
-            <a href="https://discordapp.com/users/LoveNek0#6637">
-                <img height="35px" src="images/social/discord.png" target="_blank" />        
-            </a>
+           
             <!--
             <a href="https://vk.com/lovenek0">
                 <img height="35px" src="images/social/vk.png" target="_blank" />        
