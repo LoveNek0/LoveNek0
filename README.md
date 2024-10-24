@@ -2,9 +2,9 @@
     <div>
         <h1>
             Welcome to 
-            <a href="https://github.com/LoveNek0">
-                @lovenek0`s
-            </a>
+            <a href="https://github.com/lovenek0">
+                @lovenek0
+            </a>`s
             profile ~
         </h1>
         <div align="center">
