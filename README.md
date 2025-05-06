@@ -73,7 +73,7 @@
                 <b>
                     Fullstack Web:
                 </b>
-                PHP, JS, HTML, CSS
+                NodeJS (React, Express), PHP, JS, HTML, CSS
             </li>
             <li>
                 <b>
@@ -85,7 +85,7 @@
                 <b>
                     IDEs I prefer to use:
                 </b>
-                Products of Intellij (like Idea, Rider, PHPStorm, WEBStorm etc.)
+                Products of Intellij (like Idea, Rider, PHPStorm, WebStorm etc.)
             </li>
         </ul>
     </div>
