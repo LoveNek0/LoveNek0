@@ -29,6 +29,12 @@
                 </li>
                 <li>
                     <b>
+                        Full Name:
+                    </b>
+                    Lisa Fomina
+                </li>
+                <li>
+                    <b>
                         Hobbies:
                     </b>
                     Painting, Anime, Manga, Coding
