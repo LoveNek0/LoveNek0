@@ -17,7 +17,7 @@
         </h2>
         <img height="250px" align="right" src="images/HoloDrink.gif"  alt="" />
         <p>
-            I am a 24 y.o. girl from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
+            I am a 25 y.o. girl from Ukraine who is a fan of anime, rock and programming. In my free time I do some freelance work or paint. I would be glad if you know more about me ♡~
         </p>
         <p>
             <ul>
